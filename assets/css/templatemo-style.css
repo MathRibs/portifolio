@@ -230,7 +230,7 @@ html {
     left: 20%;
   -webkit-transition: -webkit-transform 233ms cubic-bezier(0, 0, 0.21, 1);
   -webkit-overflow-scrolling: touch;
-  background-color: #1647ea;
+  background-color: #2e0130;
   box-sizing: border-box;
   height: 100vh;  
   max-height: 150vh !important;
