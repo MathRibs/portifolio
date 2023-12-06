@@ -13,7 +13,7 @@ body {
 }
 
 #page-wraper {
-    background: url(../images/11.2898021.jpg) no-repeat center center fixed;
+    background: url(../images/2727.png) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -226,12 +226,14 @@ html {
     display: none;
 }
 
+
+
+
 .menu {
-    left: 20%;
+    left: 10%;
   -webkit-transition: -webkit-transform 233ms cubic-bezier(0, 0, 0.21, 1);
   -webkit-overflow-scrolling: touch;
-  background-color: #2e0130;
-  box-sizing: border-box;
+ background-image: linear-gradient( );
   height: 100vh;  
   max-height: 150vh !important;
   max-width: 150vw !important;
@@ -245,6 +247,7 @@ html {
   width: 23%;
   will-change: transform;
   z-index: 9999 !important;
+  border-radius: 1%;
 }
 
 .menu-toggle {
